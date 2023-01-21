@@ -25,6 +25,6 @@ git clone https://github.com/Arturo254/Web-Scan
 cd Web-Scan
 
 
-bash install.sh
+bash setup.sh
 
 php Scan.php
